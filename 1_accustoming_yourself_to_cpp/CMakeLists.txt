@@ -3,3 +3,4 @@ project(1_accustoming_yourself_to_cpp)
 
 set(CMAKE_CXX_STANDARD 14)
 add_subdirectory(01_a_federation_of_languages)
+add_subdirectory(02_prefer_consts_enums_inlines)
